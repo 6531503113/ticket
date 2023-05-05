@@ -1,0 +1,14 @@
+Passenger: o
+Round: #2 (20:00 - 07:00)
+Bogie: 5
+Seat: 6
+Total price: 2 (1 baht / 1.10 km)
+===== Stations ===== 
+From: Bangkok
+To: Sam Sen
+Total Distance: 2.6 km
+Estimate time destination: 1m 44s, (20:00 - 21:00)
+
+ [Bangkok]
+   | -> (2.6 km)
+ [Sam Sen]

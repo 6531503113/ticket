@@ -1,0 +1,64 @@
+Passenger: Bas
+Round: #1 (19:00 - 06:00)
+Bogie: 2
+Seat: 15
+Total price: 617 (1 baht / 1.10 km)
+===== Stations ===== 
+From: Bangkok
+To: Phitsanulok
+Total Distance: 561.6 km
+Estimate time destination: 6h 14m 24s, (19:00 - 26:00)
+
+ [Bangkok]
+   | -> (2.6 km)
+ [Sam Sen]
+   | -> (3.1 km)
+ [Bang Sue Junction]
+   | -> (4.4 km)
+ [Kamphaeng Phet]
+   | -> (2.3 km)
+ [Chatuchak Park]
+   | -> (5 km)
+ [Sena Nikhom]
+   | -> (3.4 km)
+ [Don Mueang]
+   | -> (8 km)
+ [Bang Khen]
+   | -> (5.4 km)
+ [Taling Chan Junction]
+   | -> (23.1 km)
+ [Bang Pa In]
+   | -> (14.6 km)
+ [Ayutthaya]
+   | -> (15.7 km)
+ [Ban Mo]
+   | -> (7.6 km)
+ [Ban Phachi Junction]
+   | -> (59.6 km)
+ [Lopburi]
+   | -> (26 km)
+ [Ban Mi]
+   | -> (25.6 km)
+ [Ban Takhli]
+   | -> (28.7 km)
+ [Nakhon Sawan]
+   | -> (41.1 km)
+ [Kamphaeng Saen]
+   | -> (32.5 km)
+ [Ban Phaeo]
+   | -> (21.9 km)
+ [Ban Pong]
+   | -> (38.7 km)
+ [Nong Pla Duk Junction]
+   | -> (30.1 km)
+ [Phichit]
+   | -> (32.5 km)
+ [Bang Krathum]
+   | -> (32.2 km)
+ [Tha Wung]
+   | -> (24.9 km)
+ [Ban Dara Junction]
+   | -> (17.8 km)
+ [Ban Mai]
+   | -> (54.8 km)
+ [Phitsanulok]
